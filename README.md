@@ -6,7 +6,7 @@ After running TPOT (a library that automates the search for the optimal machine 
 
 ### PART 1 
 Introducing the Data and Models: I believe it's important to get acquainted with data, The dataset made available by UC Irvine consists of 9 fields, 8 of which are features that
-may be used to predict the variable: concrete comprehensive strength. LINK: https://lnkd.in/eJaJRNPb We will make a baseline model and optimize it.
+may be used to predict the variable: concrete comprehensive strength. We will make a baseline model and optimize it.
 
 ### PART 2 
 Gradient Boosting Algorithm as a Regressor: Having defined our parameters, we analyze their impact on the algorithm's performance. EX: the loss function was the huber
